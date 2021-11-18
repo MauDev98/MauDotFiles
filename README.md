@@ -1,6 +1,8 @@
 # Console development enviroment
 
 Here are some to do's to set up my development enviroment.
+Run `git clone https://github.com/MauDev98/MauDotFiles.git` in any folder, preferred in the Downloads folder.
+Inside .config folder there are neovim's and kitty's terminal conf files to be copied in the locations specified in the following instructions.
 
 ## Install the following somehow
 
