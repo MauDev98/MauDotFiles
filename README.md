@@ -82,5 +82,5 @@ npm i -g live-server
 ```
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-3. Prefix is <C-space>, press prefix + I (capital i) to install puglins
+3. Prefix is `<C-space>`, press prefix + I (capital i) to install puglins
 4. Read shortcuts in the .tmux.conf file 
